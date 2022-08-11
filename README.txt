@@ -1,5 +1,5 @@
-# Web Lab Tasarım
-Web Lab Tasarımı daha kolay bir şekilde burdan indirip yapabilirsiniz. Tasarımın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Code ortamında HTML, Javascript programlama dili kullanarak geliştirilmiştir.
+# Kilit Ekranı Tasarımı
+Kilit Ekranı Tasarımı daha kolay bir şekilde burdan indirip yapabilirsiniz. Tasarımın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Code ortamında HTML, Javascript programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
 - [x] Türkçe
@@ -26,4 +26,4 @@ Web Lab Tasarımı daha kolay bir şekilde burdan indirip yapabilirsiniz. Tasar�
 <b>Programcıdan Notlar</b>
 > <b>Öneriler, istekler ve sorunların varsa lütfen bize ulaşın! :)</b>
 
-> Bu programı yapmamın amacı kullanıcıların web tasarımdan Web Lab Tasarımı yapmak yerine bu tasarımı kullanarak daha kolay yapmak, bu yüzden ben de bu programı yapmak istedim. Eğer tekrar sorun yaşarsanız ya da bize destek olmak istiyorsanız lütfen çekinmeden ulaşın :)
+> Bu programı yapmamın amacı kullanıcıların web tasarımdanKilit Ekranı Tasarımı yapmak yerine bu tasarımı kullanarak daha kolay yapmak, bu yüzden ben de bu programı yapmak istedim. Eğer tekrar sorun yaşarsanız ya da bize destek olmak istiyorsanız lütfen çekinmeden ulaşın :)
